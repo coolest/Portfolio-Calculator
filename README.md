@@ -1,3 +1,6 @@
+side note i made this and didnt even realize coinmarketcap had their own portfolio thing - i am a little dumb
+
+
 # Portfolio-Calculator
 
 Some java thing I made to calculate my portfolio using coinmarketcap.com
